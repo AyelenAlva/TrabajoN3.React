@@ -1,11 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "app3",
     "slug": "app3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "app3",
+=======
+    "name": "LoginApp",
+    "slug": "LoginApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "loginapp",
+>>>>>>> 453c81ccee1760513e2b4334a2101c975c42a789
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
